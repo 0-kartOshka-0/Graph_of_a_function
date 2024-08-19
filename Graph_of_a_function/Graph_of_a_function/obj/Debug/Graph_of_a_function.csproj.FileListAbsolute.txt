@@ -1,0 +1,13 @@
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Graph_of_a_function\Graph_of_a_function\bin\Debug\Graph_of_a_function.exe.config
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Graph_of_a_function\Graph_of_a_function\bin\Debug\Graph_of_a_function.exe
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Graph_of_a_function\Graph_of_a_function\bin\Debug\Graph_of_a_function.pdb
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Graph_of_a_function\Graph_of_a_function\obj\Debug\Graph_of_a_function.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Graph_of_a_function\Graph_of_a_function\obj\Debug\Graph_of_a_function.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Graph_of_a_function\Graph_of_a_function\obj\Debug\Graph_of_a_function.Form1.resources
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Graph_of_a_function\Graph_of_a_function\obj\Debug\Graph_of_a_function.Options.resources
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Graph_of_a_function\Graph_of_a_function\obj\Debug\Graph_of_a_function.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Graph_of_a_function\Graph_of_a_function\obj\Debug\Graph_of_a_function.Schedule.resources
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Graph_of_a_function\Graph_of_a_function\obj\Debug\Graph_of_a_function.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Graph_of_a_function\Graph_of_a_function\obj\Debug\Graph_of_a_function.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Graph_of_a_function\Graph_of_a_function\obj\Debug\Graph_of_a_function.exe
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Graph_of_a_function\Graph_of_a_function\obj\Debug\Graph_of_a_function.pdb
